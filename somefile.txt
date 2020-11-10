@@ -1,10 +1,1 @@
-Impacket v0.9.22.dev1+20200921.150315.ba6cc81d - Copyright 2020 SecureAuth Corporation
 
-[*] Dumping Domain Credentials (domain\uid:rid:lmhash:nthash)
-[*] Using the DRSUAPI method to get NTDS.DIT secrets
-Administrator:500:aad3b435b51404eeaad3b435b51404ee:64f12cddaa88057e06a81b54e73b949b:::
-[*] Kerberos keys grabbed
-Administrator:aes256-cts-hmac-sha1-96:a9de87a2ea7f274e08d02ea568609ffa7c2a5337ba2b463d6bbd72bd2360b45e
-Administrator:aes128-cts-hmac-sha1-96:632d587483eca25d4dfb11a336497d01
-Administrator:des-cbc-md5:08dac752b60bc2a2
-[*] Cleaning up... 
